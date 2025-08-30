@@ -15,9 +15,10 @@ This project is designed as a scalable and maintainable codebase, following a co
 - **Linting**: Enforced code quality with ESLint.
 
 ## Screenshot
-![WhatsApp Image 2025-08-31 at 3 14 50 AM](https://github.com/user-attachments/assets/8541a2da-53f4-46a8-8222-ec53afb058cf)
-![WhatsApp Image 2025-08-31 at 3 14 51 AM](https://github.com/user-attachments/assets/6c454fa8-3b2f-4c32-b205-82964287f6ab)
-![WhatsApp Image 2025-08-31 at 3 14 51 AM (1)](https://github.com/user-attachments/assets/a24ca739-7f1e-4444-9b7f-3aaca60cf5e0)
+![WhatsApp Image 2025-08-31 at 3 14 50 AM](https://github.com/user-attachments/assets/a83b68aa-9222-465b-b1c2-73b1d9b305f5)
+![WhatsApp Image 2025-08-31 at 3 14 51 AM](https://github.com/user-attachments/assets/c2931c0b-408a-42e1-8867-016cd96944fc)
+![WhatsApp Image 2025-08-31 at 3 14 51 AM (1)](https://github.com/user-attachments/assets/5265d3a8-461c-427c-a085-89763ebf6771)
+
 
 ## Demo Url
 https://drive.google.com/file/d/1ZEop3n7xmhD1U6su9QfiwPlwULB6xbCW/view
