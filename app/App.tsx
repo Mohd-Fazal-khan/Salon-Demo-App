@@ -20,7 +20,7 @@ const Placeholder = ({ label }: { label: string }) => (
   </View>
 );
 
-// Example of a screen not in the bottom tabs
+
 const FullScreen = ({ navigation }: any) => (
   <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
     <Text>Full Screen Page</Text>
@@ -28,7 +28,7 @@ const FullScreen = ({ navigation }: any) => (
   </View>
 );
 
-// Bottom Tabs component
+
 function BottomTabs() {
   return (
     <Tab.Navigator
